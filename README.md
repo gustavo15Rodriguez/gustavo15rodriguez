@@ -8,8 +8,8 @@
 
 
 
-- :paperclip: I’m currently working with ReactJs, MySQL and Laravel.
-- :computer: I’m currently learning Kotlin.
+- :paperclip: I’m currently working with React Native, Angular and .Net
+- :computer: I’m currently learning Ionic.
 
 <br />
 
@@ -25,7 +25,6 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
 
 <br />
 
